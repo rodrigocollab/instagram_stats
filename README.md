@@ -1,2 +1,1 @@
-# Instagram Stats
-Codes that help to understand better your Instagram relationships.
+Codes to help you understand your Instagram relationships better.
